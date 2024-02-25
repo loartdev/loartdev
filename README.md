@@ -11,7 +11,7 @@ I’m always eager to learn new skills and technologies and collaborate with oth
 
 * 🌍  I'm based in Colombia And Canada
 * 🖥️  See my portfolio at [My Website](http://loart.dev)
-* ✉️  You can contact me at [simon.lopezj2@gmail.com](mailto:simon.lopezj2@gmail.com)
+* ✉️  You can contact me at [s.lopez@loart.dev](mailto:s.lopez@loart.dev)
 * 🚀  I'm currently working on [Divineme](http://divineme-gdd.loart.dev/)
 * 🧠  I'm learning C++ for Unreal Engine
 * 🤝  I'm open to collaborating on Cool games, websites, and VR/AR projects
