@@ -15,6 +15,7 @@ I’m always eager to learn new skills and technologies and collaborate with oth
 * 🚀  I'm currently working on [Party Madness](https://loart.dev/games/party-madness)
 * 🧠  I'm learning C++ for Unreal Engine
 * 🤝  I'm open to collaborating on Cool games, websites, and VR/AR projects
+* 🧑‍🦰  Learn more about me [here](https://loart.dev/about-me)
 
 <a href="https://www.github.com/loartdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/loartdev?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a><a href="https://www.x.com/LoArtDev" target="_blank" rel="noreferrer"><img
