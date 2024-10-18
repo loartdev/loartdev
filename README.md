@@ -10,7 +10,7 @@ I am a designer and developer passionate about creating stunning games and websi
 I’m always eager to learn new skills and technologies and collaborate with other creative minds. Feel free to check out my portfolio, LoArt & Dev, and contact me if you want to work with me. Thanks for visiting my profile! 😊
 
 * 🌍  I'm based in Colombia And Canada
-* 🖥️  See my portfolio at [My Website](http://loart.dev)
+* 🖥️  See my portfolio at [My Website](https://loart.dev)
 * ✉️  You can contact me at [s.lopez@loart.dev](mailto:s.lopez@loart.dev)
 * 🚀  I'm currently working on [Party Madness](https://loart.dev/games/party-madness)
 * 🧠  I'm learning C++ for Unreal Engine
