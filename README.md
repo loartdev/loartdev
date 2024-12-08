@@ -11,8 +11,8 @@ I’m always eager to learn new skills and technologies and collaborate with oth
 
 * 🌍  I'm based in Colombia And Canada
 * 🖥️  See my portfolio at [My Website](https://loart.dev)
-* 🧾  Check out my [Game Dev Blog](https://loart.dev)
-* ✉️  You can contact me at [s.lopez@loart.dev](mailto:s.lopez@loart.dev)
+* 🧾  Check out my [Game Dev Blog](https://blog.loart.dev)
+* ✉️  You can contact me through [my website!](https://loart.dev/contact)
 * 🚀  I'm currently working on [Party Madness](https://loart.dev/games/party-madness)
 * 🧠  I'm learning C++ for Unreal Engine
 * 🤝  I'm open to collaborating on Cool games, websites, and VR/AR projects
