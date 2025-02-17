@@ -10,13 +10,13 @@ I am a designer and developer passionate about creating stunning games and websi
 I’m always eager to learn new skills and technologies and collaborate with other creative minds. Feel free to check out my portfolio, LoArt & Dev, and contact me if you want to work with me. Thanks for visiting my profile! 😊
 
 * 🌍  I'm based in Colombia And Canada
-* 🖥️  See my portfolio at [My Website](https://loart.dev)
+* 🖥️  See my portfolio at [My Website](https://www.loart.dev)
 * 🧾  Check out my [Game Dev Blog](https://blog.loart.dev)
-* ✉️  You can contact me through [my website!](https://loart.dev/contact)
-* 🚀  I'm currently working on [Party Madness](https://loart.dev/games/party-madness)
+* ✉️  You can contact me through [my website!](https://www.loart.dev/contact)
+* 🚀  I'm currently working on [Party Madness](https://www.loart.dev/games/party-madness)
 * 🧠  I'm learning C++ for Unreal Engine
 * 🤝  I'm open to collaborating on Cool games, websites, and VR/AR projects
-* 🧑‍🦰  Learn more about me [here](https://loart.dev/about-me)
+* 🧑‍🦰  Learn more about me [here](https://www.loart.dev/about-me)
 
 <a href="https://www.github.com/loartdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/loartdev?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a><a href="https://www.x.com/LoArtDev" target="_blank" rel="noreferrer"><img
